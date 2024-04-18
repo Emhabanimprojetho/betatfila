@@ -1,0 +1,34 @@
+{
+  "name": "Projetsholv",
+  "short_name": "Projetsholv",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "red",
+  "theme_color": "red",
+  "icons": [{
+      "src": "https://yt3.googleusercontent.com/H1K03ixSAoLW6kfZL7bP9G8iLFJVYhDTbL4tXLyCcyPAY1xHMkGfEhuanJpgkIDhjRQp8PUHUWc=s176-c-k-c0x00ffffff-no-rj",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "https://yt3.googleusercontent.com/H1K03ixSAoLW6kfZL7bP9G8iLFJVYhDTbL4tXLyCcyPAY1xHMkGfEhuanJpgkIDhjRQp8PUHUWc=s176-c-k-c0x00ffffff-no-rj",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "https://img.favpng.com/17/25/14/stephen-wise-free-synagogue-computer-icons-yad-menorah-png-favpng-fnz4kiLiM4aDRtN6kCGvhFrAX.jpg",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "https://img.favpng.com/17/25/14/stephen-wise-free-synagogue-computer-icons-yad-menorah-png-favpng-fnz4kiLiM4aDRtN6kCGvhFrAX.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "https://img.favpng.com/17/25/14/stephen-wise-free-synagogue-computer-icons-yad-menorah-png-favpng-fnz4kiLiM4aDRtN6kCGvhFrAX.jpg",
+        "sizes": "256x256",
+        "type": "image/png"
+      }, {
+        "src": "https://img.favpng.com/17/25/14/stephen-wise-free-synagogue-computer-icons-yad-menorah-png-favpng-fnz4kiLiM4aDRtN6kCGvhFrAX.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }]
+}
