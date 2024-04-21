@@ -6,7 +6,7 @@ var filesToCache = [
 
   '/index.html',
 
-  '/css/style.css',
+  'style.css',
 
    ...
 
